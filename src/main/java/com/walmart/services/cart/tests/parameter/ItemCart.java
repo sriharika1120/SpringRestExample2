@@ -1,0 +1,24 @@
+package com.walmart.services.cart.tests.parameter;
+
+public class ItemCart {
+	
+	String itemId;
+    int qty;
+	
+    public String getItemId() {
+		return itemId;
+	}
+	public void setItemId(String itemId) {
+		this.itemId = itemId;
+	}
+	public int getQty() {
+		return qty;
+	}
+	public void setQty(int qty) {
+		this.qty = qty;
+	}
+   
+	
+	
+
+}

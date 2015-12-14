@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Unit-checkout-CheckoutService" verbose="1">
+	<test name="CheckoutService-UnitTest">
+		<classes>
+			<class name="com.walmart.services.checkout.testng.buynowsuite.AffiliateCheckoutAPI2TestSuite"></class>
+		</classes>
+	</test>
+</suite>
